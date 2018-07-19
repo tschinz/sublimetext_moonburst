@@ -1,9 +1,5 @@
 # Announcing the missing "Sunburst" Sublime Text Color Scheme
 
-Article: https://scotch.io/bar-talk/announcing-10-too-dull-for-my-tastes-sublime-text-color-scheme
-
-![](https://cdn.scotch.io/2/MtfjT0UuRQe6zKIC9Bgc_cover-image.gif)
-
 ## How to Download
 
 1. Install [Sublime Text 3](https://www.sublimetext.com/)
