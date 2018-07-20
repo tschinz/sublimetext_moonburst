@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Stanley Rost and tschinz</string>
+	<string>tschinz</string>
 	<key>comment</key>
-	<string>(π) Soryu, 2005 and somewhere else</string>
+	<string>π, 2018</string>
 	<key>name</key>
-	<string>Sunburst</string>
+	<string>Moonburst</string>
 	<key>settings</key>
 	<array>
 		<dict>
