@@ -1,4 +1,4 @@
-# Announcing the missing "Sunburst" Sublime Text Color Scheme
+# Announcing the missing "Moonburst" Sublime Text Color Scheme
 
 ## How to Download
 
@@ -8,13 +8,13 @@
 
 Open the `Command Palette` (cmd + shift + p) and search:
 
-* Color Scheme - Sunburst
+* Color Scheme - Moonburst
 
 
 Then add to your user settings:
 
 ```
-"color_scheme": "Packages/Sunburst Color Scheme/sunburst.tmTheme"
+"color_scheme": "Packages/Moonburst Color Scheme/Moonburst.tmTheme"
 ```
 
 ## Cursive Monospace Fonts
@@ -31,15 +31,14 @@ Whatever you choose, you can add this to your user settings.
 ```
 
 ## Pull Requests Updates
-
 Please send.
 
 ## Conclusion
+Again, all the hardwork was done by other people, a special thanks goes to every contributor of (tmtheme-editor)[http://tmtheme-editor.herokuapp.com]
 
-Again, all the hardwork was done by the Stanley Rost creator of original Sunburst. This is a simple lazy fork of it where I:
-
-* * Picked new colors
+* Picked new colors
 * Modified a few things
+* Add better VHDL support
 * Added italic support
 
-Give him all credit for the original theme work. Hope you guys like this one! It's free for all. Thanks!
+Hope you guys like this one! It's free for all. Thanks!
